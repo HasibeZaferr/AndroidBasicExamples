@@ -1,11 +1,5 @@
 package com.hasibezafer.customlistview;
 
-import java.util.Date;
-
-/**
- * Created by hasibezafer on 18.02.2017.
- */
-
 public class User {
     private String userName;
     private boolean userGender;
