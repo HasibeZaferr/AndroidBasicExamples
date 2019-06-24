@@ -1,5 +1,4 @@
-# AndroidBasicExamples
-:shipit: Android Basic Examples
+# Custom ListView
 
 In this project, we add custom listview to the project in 4 steps.
 
